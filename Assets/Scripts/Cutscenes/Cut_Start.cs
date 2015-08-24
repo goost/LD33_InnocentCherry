@@ -52,7 +52,7 @@ public class Cut_Start : MonoBehaviour {
         yield return new WaitForSeconds(0.55f);
         yield return StartCoroutine(CutsceneUtility.ShowText(_player, "...him...", 0.25f));
         yield return new WaitForSeconds(0.575f);
-        yield return StartCoroutine(CutsceneUtility.ShowText(_player,"Was'nt I...?", 0.15f));
+        yield return StartCoroutine(CutsceneUtility.ShowText(_player,"Wasn't I...?", 0.15f));
         yield return new WaitForSeconds(0.55f);
         _player.SendMessage("DisplayText", "");
         yield return StartCoroutine(_flasherWhite.Flash());

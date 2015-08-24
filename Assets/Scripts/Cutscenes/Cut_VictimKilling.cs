@@ -105,7 +105,7 @@ public class Cut_VictimKilling : MonoBehaviour
         if (_choosedAttack)
         {
             //Cherry Attacks
-            yield return StartCoroutine(CutsceneUtility.ShowText(_player, "I do'nt want to die!!!", 0.01f));
+            yield return StartCoroutine(CutsceneUtility.ShowText(_player, "I don't want to die!!!", 0.01f));
             prb.MovePosition(new Vector2(prb.position.x + 0.15f, prb.position.y));
             _source.PlayOneShot(_cherryAttack);
             yield return StartCoroutine(_flasherRed.Flash());
