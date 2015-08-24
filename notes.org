@@ -1,0 +1,29 @@
+* Notes
+* Ideas
+** DONE VisualNovel Like
+CLOSED: [2015-08-23 Sun 13:02]
+Corpse Party Movement
+-> TopDown2D or First Person Room Investigate
+** Jump 'n' Run in Mind 
+Killes someone
+Mental Breakdown
+Journey through mind to stabilize oneself
+In the End, suicide or not, because Monster
+*** Story
+**** Begin
+PC kills (or not) one person
+PC realize waht he has done and breaks down, mentally
+Faces his crimes in his mind
+Realize, that he killed just because he wanted to kill
+In the end, he can choose suicide and die as a monster
+or continue to kill as a monster, fully awaken
+*** Turn Based Combat
+* Source 
+http://opengameart.org/content/dirt-platformer-tiles
+http://opengameart.org/content/grue
+http://opengameart.org/content/fumiko-complete-charset
+http://tenbytwenty.com/?xxxx_posts=munro
+http://www.fontsquirrel.com/fonts/Fearless
+http://opengameart.org/content/blood-decals-32-in-zip-file
+http://soundbible.com/925-Bone-Crushing.html
+** TODO Unity 2D Pack Apache License ->Need To Include

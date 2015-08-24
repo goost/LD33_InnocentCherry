@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="12" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="platformertiles" tilewidth="32" tileheight="32" tilecount="24">
+  <image source="../../../../../Downloads/LD33/platformertiles.png" width="256" height="96"/>
+  <terraintypes>
+   <terrain name="Stone" tile="-1"/>
+  </terraintypes>
+  <tile id="0" terrain="0,0,0,0"/>
+  <tile id="1" terrain="0,0,0,0"/>
+  <tile id="2" terrain="0,0,0,0"/>
+  <tile id="8" terrain="0,0,0,0"/>
+  <tile id="9" terrain="0,0,0,0"/>
+  <tile id="10" terrain="0,0,0,0"/>
+  <tile id="16" terrain="0,0,0,0"/>
+  <tile id="17" terrain="0,0,0,0"/>
+  <tile id="18" terrain="0,0,0,0"/>
+ </tileset>
+ <tileset firstgid="25" name="solid_red" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../../../../../Downloads/LD33/solid_red.png" width="32" height="32"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.1875" y="-0.0434783" width="32.3125" height="32.1739"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer name="Back" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzjYWBg4BnFo3gUD0kMADN7C0E=
+  </data>
+ </layer>
+ <layer name="Stars" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJydksEKwDAIQz3srP7/1+40CCFR2UGwVZM+aUZELlGQ96FfzTfNsg7WMS/SUfH145m1HVObcD4X3g7N7nyQLUNz8W4es1P25t31MMe1jXfj2vbmeJlbvUtpKnbWSbpH7zro/Q01j/5T7/SnXxISDdY=
+  </data>
+ </layer>
+ <layer name="Ground" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAw1YqWweL4X6GYGYCQmzI7HJAZxAzIUD47OXHEysvcTiwW4eAKhrAoY=
+  </data>
+ </layer>
+ <layer name="Deco" width="20" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFpALxgXYADiA2QHai24vNHQPhtpEAAOfMAIY=
+  </data>
+ </layer>
+ <layer name="Collision" width="20" height="12" opacity="0.1">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAOkKSSOSPRPMlBZp4kDkxNgM08XPYSi0ciAADGWAMI
+  </data>
+ </layer>
+</map>
